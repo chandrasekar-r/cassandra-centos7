@@ -1,2 +1,2 @@
 # cassandra-centos7
-Run cassandra as separate container in centos 7
+Install and Run cassandra DB in a separate docker container in centos 7
